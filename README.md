@@ -1,1 +1,2 @@
-# Power-BI-Projects
+I have completed various practical exercises in Power BI, gaining hands-on experience in data visualization, modeling, and reporting. Below are examples of basic Power BI exercises I have successfully completed, these examples represent some of the Skills I have gained including Data Importation and Transformation, Creating Relationships and Data models, Building visualization, Creating and using DAX (Data Analysis Expressions) Et cetera.
+These exercises reflect my proficiency in Power BI and its application for business intelligence and reporting.
